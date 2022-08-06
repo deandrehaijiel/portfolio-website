@@ -1,0 +1,39 @@
+.quote {
+  color: #fff;
+  font-size: 21px;
+}
+
+.tech-tag {
+	color: #8d8d8d;
+  }
+
+a:link {
+  color: #8d8d8d;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: gray;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #9899a5;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: lightyellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.tag-wrap {
+  float: right;
+  width: 53%;
+  height: 115%;
+  margin-top: -3%;
+}
