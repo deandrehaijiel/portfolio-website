@@ -19,7 +19,7 @@
 
         &::before{
             content: '<h1>';
-            font-family: 'La Belle Aurore';
+            font-family: 'Courier';
             color: #ffffff;
             font-size: 18px;
             position: absolute;
@@ -30,7 +30,7 @@
 
         &::after {
             content: '</h1>';
-            font-family: 'La Belle Aurore';
+            font-family: 'Courier';
             color: #ffffff;
             font-size: 18px;
             position: absolute;
@@ -79,4 +79,27 @@
             color: #333;
         }
     }
+}
+
+.logo-wrap {
+    float: right;
+    width: 53%;
+    height: 115%;
+    margin-top: -3%;
+    
+    .logo {
+        display: block;
+        padding: 8px 0;
+    }
+
+      img {
+        display: block;
+        margin: 8px auto;
+        width: 24px;
+        height: auto;
+      }
+
+        &.sub-logo {
+            width: 50px;
+        }
 }

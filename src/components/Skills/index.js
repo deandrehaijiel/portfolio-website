@@ -70,10 +70,12 @@ const Skills = () => {
               idx={15}
             />
           </h1>
+          <p align="LEFT">
           <h2 class="quote">
           "Jack Of All Trades, Master Of None"
           </h2>
-          <p align="LEFT">
+          </p>
+          <p>
           That would be how I would describe myself. Some experience in 
           <span class="tech-tag"> AutoCAD</span>
           , 
