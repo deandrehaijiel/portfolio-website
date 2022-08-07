@@ -14,14 +14,14 @@ const slugs = [
   "flutter",
   "html5",
   "javascript",
-  "matlab",
+  // "matlab",
   "microsoftoffice",
-  "microsoftvisualbasic",
+  // "microsoftvisualbasic",
   "mysql",
   "npm",
   "adobephotoshop",
   "react",
-  "scss",
+  // "scss",
   "unity"
 ];
 
