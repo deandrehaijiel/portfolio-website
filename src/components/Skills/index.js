@@ -80,7 +80,7 @@ const Skills = () => {
             >
               LinkedIn
             </a>{" "}
-            profile for more details. Also, you can check out my CV on this
+            profile for more details. Also, you can check out my résumé on this
             link.
           </p>
         </div>
