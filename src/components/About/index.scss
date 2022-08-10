@@ -109,3 +109,7 @@ a:active {
   background-color: transparent;
   text-decoration: underline;
 }
+
+.fade {
+  animation: fadeIn 1s 2.4s backwards;
+}

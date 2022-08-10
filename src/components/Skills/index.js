@@ -45,6 +45,7 @@ const Skills = () => {
               idx={15}
             />
           </h1>
+          <div className="fade">
           <p align="LEFT">
             <h2 class="quote">"Jack Of All Trades, Master Of None"</h2>
           </p>
@@ -83,6 +84,7 @@ const Skills = () => {
             profile for more details. Also, you can check out my résumé on this
             link.
           </p>
+          </div>
         </div>
         <div className="tag-wrap">
           <DynamicCloud iconSlugs={slugs}/>

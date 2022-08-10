@@ -48,9 +48,11 @@ const Contact = () => {
               idx={15}
             />
           </h1>
+          <div className="fade">
           <p>
           I am interested in internship opportunities - especially anything software related. However, if you have other requests or questions, don't hesitate to contact me using the form below.
           </p>
+          </div>
           <div className="contact-form">
             <form ref={form} onSubmit={sendEmail}>
               <ul>

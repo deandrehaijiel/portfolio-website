@@ -23,6 +23,7 @@ const About = () => {
               idx={15}
             />
           </h1>
+          <div className="fade">
           <p>
           Currently in my penultimate year of study at Nanyang Technological University (NTU), School of EEE (Electrical and Electronic Engineering), pursuing a Bachelor’s Degree in Electrical and Electronic Engineering. 
           </p>
@@ -35,6 +36,7 @@ const About = () => {
           <p>
           <a href="https://deandrehaijiel.surge.sh/" target="_blank">Curriculum Vitae Website</a>
           </p>
+          </div>
         </div>
 
         <div className="stage-cube-cont">
