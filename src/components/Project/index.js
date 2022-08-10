@@ -47,7 +47,7 @@ const Project = () => {
         <div className="container project-page">
             <h1 className="page-title">
                 <AnimatedLetters letterClass={letterClass}
-              strArray={"Personal Projects".split("")}
+              strArray={"Projects".split("")}
               idx={15}/>
             </h1>
             <div>{renderProject(projectData.project)}</div>
