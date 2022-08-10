@@ -1,4 +1,5 @@
 import './App.scss'
+import {Helmet} from "react-helmet";
 import { Routes, Route } from 'react-router-dom'
 import Layout from './components/Layout'
 import Home from './components/Home'
@@ -10,6 +11,12 @@ import Project from './components/Project'
 function App() {
   return (
     <>
+    <Helmet>
+      <meta charSet="utf-8" />
+      <title>DeAndre Hai Jie L</title>
+      <link rel="canonical" href="http://mysite.com/example" />
+      <meta name="description" content="DeAndre Hai Jie Lim's Portfolio Website" />
+    </Helmet>
     <Routes>
       <Route path="/" element={<Layout />}>
         <Route index element={<Home />} />
