@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom';
 import Loader from 'react-loaders'
-import LogoTitle from '../../assets/images/profile.png';
+import D from '../../assets/images/D.png';
 import AnimatedLetters from '../AnimatedLetters';
 import Logo from './Logo'
 import './index.scss';
@@ -30,7 +30,7 @@ const Home = () => {
                 <span className={`${letterClass} _14`}>I</span> 
                 <span className={`${letterClass} _15`}>'</span>
                 <span className={`${letterClass} _16`}>m</span>  
-                <img src={LogoTitle} alt="developer" />
+                <img src={D} alt="DeAndre" />
                 <AnimatedLetters letterClass={letterClass}
                 strArray={nameArray}
                 idx={17} />
