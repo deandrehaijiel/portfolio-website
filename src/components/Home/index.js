@@ -2,8 +2,8 @@ import { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom';
 import Loader from 'react-loaders'
 import D from '../../assets/images/D.png';
+import Profile from '../../assets/images/Profile.PNG'
 import AnimatedLetters from '../AnimatedLetters';
-import Logo from './Logo'
 import './index.scss';
 
 const Home = () => {
@@ -46,7 +46,28 @@ const Home = () => {
                 <h2>Aspiring Software Engineer</h2>
                 <Link to="/contact" className='flat-button'>CONTACT ME</Link>
             </div>
-            <Logo />
+            <div className="home-stage-cube-cont">
+          <div className="home-cubespinner">
+            <div className="face1">
+              <img src={Profile} alt="profile" />
+            </div>
+            <div className="face2">
+              <img src={Profile} alt="profile" />
+            </div>
+            <div className="face3">
+              <img src={Profile} alt="profile" />
+            </div>
+            <div className="face4">
+              <img src={Profile} alt="profile" />
+            </div>
+            <div className="face5">
+              <img src={Profile} alt="profile" />
+            </div>
+            <div className="face6">
+              <img src={Profile} alt="profile" />
+            </div>
+          </div>
+        </div>
         </div>
         <Loader type="pacman" />
         </>
