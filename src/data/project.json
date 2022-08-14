@@ -1,42 +1,42 @@
 {
     "project": [
         {
-            "cover": "./portfolio-website/CryptoShowroom1.gif",
+            "cover": "./project/cryptocars/CryptoShowroom1.gif",
             "title": "Crypto Showroom #1",
             "description": "CryptoShowroom#1 is a fixed set of 10,000 CryptoCars launched at the beginning of 2022.",
             "url": "https://opensea.io/collection/crypto-showroom-1"
         }
     ,
         {
-            "cover": "./portfolio-website/CryptoGarage1.gif",
+            "cover": "./project/cryptocars/CryptoGarage1.gif",
             "title": "Crypto Garage #1",
             "description": "CryptoGarage#1 is a fixed set of 9,001 CryptoCars launched at the beginning of 2022.",
             "url": "https://opensea.io/collection/crypto-garage-1"
         }
     ,
         {
-            "cover": "./portfolio-website/CryptoIcon.gif",
+            "cover": "./project/cryptocars/CryptoIcon.gif",
             "title": "Project CryptoCars",
             "description": "Project CryptoCars is a collection of 10 CryptoCars featured in the indie game: CryptoCars. ",
             "url": "https://opensea.io/collection/project-cryptocars"
         }
     ,
         {
-            "cover": "./portfolio-website/CryptoCarsGame.webp",
+            "cover": "./project/cryptocars/CryptoCarsGame.webp",
             "title": "CryptoCars @ \nGoogle Play",
             "description": "CryptoCars is a simple pixelated 2D endless runner game, inspired by the creator’s NFT collection.",
             "url": "https://play.google.com/store/apps/details?id=com.deandrehaijiel.CryptoCars"
         }
     ,
         {
-            "cover": "./portfolio-website/CryptoCarsGame.webp",
+            "cover": "./project/cryptocars/CryptoCarsGame.webp",
             "title": "CryptoCars @ Itch.io",
             "description": "CryptoCars is a simple pixelated 2D endless runner game, inspired by the creator’s NFT collection.",
             "url": "https://deandrehaijiel.itch.io/cryptocars"
         }
     ,
         {
-            "cover": "./portfolio-website/choicesrandom.webp",
+            "cover": "./project/choicesrandom/choicesrandom.webp",
             "title": "choices : random",
             "description": "choices : random represents the ultimate decision maker that chooses your varied choices.",
             "url": "https://play.google.com/store/apps/details?id=com.deandrehaijiel.randomizer"
