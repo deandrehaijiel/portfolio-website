@@ -14,7 +14,7 @@ function App() {
     <Helmet>
       <meta charSet="utf-8" />
       <title>DeAndre Hai Jie L</title>
-      <link rel="canonical" href="http://mysite.com/example" />
+      <link rel="canonical" href="http://deandrehaijiel.github.io/portfolio-website" />
       <meta name="description" content="DeAndre Hai Jie Lim's Portfolio Website" />
     </Helmet>
     <Routes>
