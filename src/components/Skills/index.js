@@ -81,8 +81,14 @@ const Skills = () => {
             >
               LinkedIn
             </a>{" "}
-            profile for more details. Also, you can check out my résumé on this
-            link.
+            profile for more details. Also, you can check out my{" "}
+            <a
+              href="https://github.com/deandrehaijiel/portfolio-website/blob/master/src/assets/resume/DeAndre%20Hai%20Jie%20Lim%20Resume.pdf"
+              target="_blank"
+            >
+              résumé
+            </a>{" "} 
+            on this link.
           </p>
           </div>
         </div>
