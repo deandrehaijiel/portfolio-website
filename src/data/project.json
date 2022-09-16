@@ -41,5 +41,12 @@
             "description": "choices : random represents the ultimate decision maker that chooses your varied choices.",
             "url": "https://play.google.com/store/apps/details?id=com.deandrehaijiel.randomizer"
         }
+    ,
+        {
+            "cover": "./project/school/blockchain-voting-system.png",
+            "title": "Blockchain Voting System",
+            "description": "Blockchain implements cryptography in a distinctive method within the software. To ensure that votes are accurately recorded, it provides a tamper-proof record that can be easily examined.",
+            "url": "https://deandrehaijiel.github.io/blockchain-voting-system/"
+        }
     ]
 }
