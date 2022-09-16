@@ -17,7 +17,7 @@
         {
             "cover": "./project/cryptocars/CryptoIcon.gif",
             "title": "Project CryptoCars",
-            "description": "Project CryptoCars is a collection of 10 CryptoCars featured in the indie game: CryptoCars. ",
+            "description": "Project CryptoCars is a collection of 10 CryptoCars featured in the indie game: CryptoCars.",
             "url": "https://opensea.io/collection/project-cryptocars"
         }
     ,
@@ -43,10 +43,17 @@
         }
     ,
         {
-            "cover": "./project/school/blockchain-voting-system.png",
+            "cover": "./project/school/Blockchain_Voting_System.png",
             "title": "Blockchain Voting System",
             "description": "Blockchain implements cryptography in a distinctive method within the software. To ensure that votes are accurately recorded, it provides a tamper-proof record that can be easily examined.",
             "url": "https://deandrehaijiel.github.io/blockchain-voting-system/"
+        }
+    ,
+        {
+            "cover": "./project/school/ShopeePay.png",
+            "title": "ShopeePay",
+            "description": "Flutter Web Application for Tackling Digital Payment in #ShopeeProductDesignChallenge2022.",
+            "url": "https://deandrehaijiel.github.io/ShopeeProductDesignChallenge2022/#/"
         }
     ]
 }
