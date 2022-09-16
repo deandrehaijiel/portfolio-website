@@ -45,7 +45,7 @@
         {
             "cover": "./project/school/Blockchain_Voting_System.png",
             "title": "Blockchain Voting System",
-            "description": "Blockchain implements cryptography in a distinctive method within the software. To ensure that votes are accurately recorded, it provides a tamper-proof record that can be easily examined.",
+            "description": "Blockchain ensures that votes are accurately recorded, it provides a tamper-proof record that can be easily examined.",
             "url": "https://deandrehaijiel.github.io/blockchain-voting-system/"
         }
     ,
