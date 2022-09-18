@@ -85,7 +85,7 @@ const Skills = () => {
             </a>{" "}
             profile for more details. Also, you can check out my{" "}
             <a
-              href="https://github.com/deandrehaijiel/portfolio-website/blob/gh-pages/resume/DeAndre%20Hai%20Jie%20Lim%20Resume.pdf"
+              href="https://github.com/deandrehaijiel/portfolio-website/blob/master/src/assets/resume/DeAndre%20Hai%20Jie%20Lim%20Resume.pdf"
               target="_blank"
             >
               résumé
