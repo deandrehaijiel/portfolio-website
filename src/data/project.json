@@ -1,6 +1,13 @@
 {
     "project": [
         {
+            "cover": "./project/school/Blockchain.png",
+            "title": "BlockVote",
+            "description": "Blockchain Voting System",
+            "url": "https://deandrehaijiel.github.io/ShopeeProductDesignChallenge2022/#/"
+        }
+    ,
+        {
             "cover": "./project/school/ShopeePay.png",
             "title": "ShopeePay",
             "description": "Flutter Web Application for Tackling Digital Payment in #ShopeeProductDesignChallenge2022.",
