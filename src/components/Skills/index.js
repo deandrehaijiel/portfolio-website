@@ -21,6 +21,7 @@ const slugs = [
   "mysql",
   "npm",
   "adobephotoshop",
+  "python",
   "react",
   // "scss",
   "unity"
@@ -66,6 +67,7 @@ const Skills = () => {
             <span class="tech-tag"> MySQL</span>,
             <span class="tech-tag"> npm</span>,
             <span class="tech-tag"> Photoshop</span>,
+            <span class="tech-tag"> Python</span>,
             <span class="tech-tag"> React</span>,
             <span class="tech-tag"> SCSS</span>, and
             <span class="tech-tag"> Unity 2D</span>.
