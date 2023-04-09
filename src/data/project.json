@@ -1,9 +1,16 @@
 {
     "project": [
         {
+            "cover": "./project/school/Weekly.png",
+            "title": "Weekly",
+            "description": "Weekly is an app that assists users in setting and accomplishing small, achievable goals on a daily, weekly, and monthly basis.",
+            "url": "https://play.google.com/store/apps/details?id=com.deandrehaijiel.weekly"
+        }
+    ,
+        {
             "cover": "./project/school/Blockchain.png",
             "title": "BlockVote",
-            "description": "Blockchain Voting System",
+            "description": "dApp for Blockchain Voting System",
             "url": "https://deandrehaijiel.github.io/blockchain-voting-system/"
         }
     ,
@@ -16,7 +23,7 @@
     ,
         {
             "cover": "./project/school/Blockchain_Voting_System.png",
-            "title": "Blockchain Voting System",
+            "title": "Educational Website for Blockchain Voting System",
             "description": "Blockchain ensures that votes are accurately recorded, it provides a tamper-proof record that can be easily examined.",
             "url": "https://deandrehaijiel.github.io/blockchain-voting-system/"
         }
