@@ -1,17 +1,17 @@
 {
     "project": [
         {
-            "cover": "./project/weekly/Weekly.png",
-            "title": "Weekly",
-            "description": "Weekly is an app that assists users in setting and accomplishing small, achievable goals on a daily, weekly, and monthly basis.",
-            "url": "https://play.google.com/store/apps/details?id=com.deandrehaijiel.weekly"
+            "cover": "./project/whatsnews/WhatsNews.png",
+            "title": "What's News?",
+            "description": "What's News? is an innovative and engaging mobile app that combines popular swiping card features with the latest news articles.",
+            "url": "https://github.com/deandrehaijiel/whatsnews"
         }
     ,
         {
-            "cover": "./project/weekly/Weekly.png",
-            "title": "Weekly",
-            "description": "Weekly is an app that assists users in setting and accomplishing small, achievable goals on a daily, weekly, and monthly basis.",
-            "url": "https://play.google.com/store/apps/details?id=com.deandrehaijiel.weekly"
+            "cover": "./project/goalgamer/GoalGamer.png",
+            "title": "GoalGamer",
+            "description": "GoalGamer is the ultimate dashboard productivity app designed to help you achieve your goals and stay motivated!",
+            "url": "https://github.com/deandrehaijiel/goalgamer"
         }
     ,
         {
