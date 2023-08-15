@@ -8,6 +8,20 @@
         }
     ,
         {
+            "cover": "./project/weekly/Weekly.png",
+            "title": "Weekly",
+            "description": "Weekly is an app that assists users in setting and accomplishing small, achievable goals on a daily, weekly, and monthly basis.",
+            "url": "https://play.google.com/store/apps/details?id=com.deandrehaijiel.weekly"
+        }
+    ,
+        {
+            "cover": "./project/weekly/Weekly.png",
+            "title": "Weekly",
+            "description": "Weekly is an app that assists users in setting and accomplishing small, achievable goals on a daily, weekly, and monthly basis.",
+            "url": "https://play.google.com/store/apps/details?id=com.deandrehaijiel.weekly"
+        }
+    ,
+        {
             "cover": "./project/school/Blockchain.png",
             "title": "BlockVote",
             "description": "Blockchain Voting System dApp",

@@ -52,7 +52,7 @@ const Project = () => {
             </h1>
             <div>{renderProject(projectData.project)}</div>
         </div>
-        <Loader type="pacman"/>
+        <Loader type="square-spin"/>
     </>
     )
 }

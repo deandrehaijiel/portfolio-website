@@ -50,7 +50,7 @@ const Contact = () => {
           </h1>
           <div className="fade">
           <p>
-          I am interested in internship opportunities - especially anything software related. However, if you have other requests or questions, don't hesitate to contact me using the form below.
+          I am interested in full-time opportunities - especially in the technology field. However, if you have other requests or questions, don't hesitate to contact me using the form below.
           </p>
           </div>
           <div className="contact-form">
@@ -107,7 +107,7 @@ const Contact = () => {
           </MapContainer>
         </div>
       </div>
-      <Loader type="pacman" />
+      <Loader type="square-spin" />
     </>
   )
 }

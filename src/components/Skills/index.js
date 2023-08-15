@@ -100,7 +100,7 @@ const Skills = () => {
           <DynamicCloud iconSlugs={slugs}/>
         </div>
       </div>
-      <Loader type="pacman" />
+      <Loader type="square-spin" />
     </>
   );
 };
