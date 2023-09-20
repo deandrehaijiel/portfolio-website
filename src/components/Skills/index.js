@@ -25,7 +25,7 @@ const slugs = [
   "python",
   "react",
   // "scss",
-  "swift"
+  "swift",
   "unity",
   // "xml"
 ];
@@ -57,13 +57,15 @@ const Skills = () => {
           <p>
             That would be how I would describe myself. Some experience in
             <span class="tech-tag"> AutoCAD</span>,
-            <span class="tech-tag"> CSS</span>,<span class="tech-tag"> C#</span>
-            ,<span class="tech-tag"> C++</span>,
+            <span class="tech-tag"> CSS</span>,
+            <span class="tech-tag"> C#</span>,
+            <span class="tech-tag"> C++</span>,
             <span class="tech-tag"> Dart</span>,
             <span class="tech-tag"> Flutter</span>,
             <span class="tech-tag"> HTML</span>,
             <span class="tech-tag"> JavaScript</span>,
             <span class="tech-tag"> jQuery</span>,
+            <span class="tech-tag"> Kotlin</span>,
             <span class="tech-tag"> MATLAB</span>,
             <span class="tech-tag"> Microsoft Office</span>,
             <span class="tech-tag"> Microsoft Visual Basic</span>,
@@ -72,8 +74,10 @@ const Skills = () => {
             <span class="tech-tag"> Photoshop</span>,
             <span class="tech-tag"> Python</span>,
             <span class="tech-tag"> React</span>,
-            <span class="tech-tag"> SCSS</span>, and
-            <span class="tech-tag"> Unity 2D</span>.
+            <span class="tech-tag"> SCSS</span>,
+            <span class="tech-tag"> SwiftUI</span>,
+            <span class="tech-tag"> Unity 2D</span>, and
+            <span class="tech-tag"> XML</span>.
           </p>
           <p>
             I have exposed myself to various software technologies and am always
