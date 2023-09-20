@@ -1,6 +1,13 @@
 {
     "project": [
         {
+            "cover": "./project/xtoy/XtoY.png",
+            "title": "X to Y",
+            "description": "X to Y is a messaging app designed exclusively for you (X) and your significant other (Y), also available in Android at https://github.com/deandrehaijiel/xtoy_android.",
+            "url": "https://github.com/deandrehaijiel/xtoy_ios"
+        }
+    ,
+        {
             "cover": "./project/whatsnews/WhatsNews.png",
             "title": "What's News?",
             "description": "What's News? is an innovative and engaging mobile app that combines popular swiping card features with the latest news articles.",

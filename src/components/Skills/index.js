@@ -15,6 +15,7 @@ const slugs = [
   "html5",
   "javascript",
   "jquery",
+  "kotlin",
   // "matlab",
   "microsoftoffice",
   // "microsoftvisualbasic",
@@ -24,7 +25,9 @@ const slugs = [
   "python",
   "react",
   // "scss",
-  "unity"
+  "swift"
+  "unity",
+  // "xml"
 ];
 
 const Skills = () => {
