@@ -28,6 +28,7 @@ const slugs = [
   "swift",
   "unity",
   // "xml"
+  "yarn"
 ];
 
 const Skills = () => {
