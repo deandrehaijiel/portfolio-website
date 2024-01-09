@@ -77,6 +77,7 @@ const Skills = () => {
             <span class="tech-tag"> Python</span>,
             <span class="tech-tag"> React</span>,
             <span class="tech-tag"> SCSS</span>,
+            <span class="tech-tag"> Solidity</span>,
             <span class="tech-tag"> SwiftUI</span>,
             <span class="tech-tag"> Unity 2D</span>, and
             <span class="tech-tag"> XML</span>.
