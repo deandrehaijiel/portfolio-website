@@ -25,6 +25,7 @@ const slugs = [
   "python",
   "react",
   // "scss",
+  "solidity",
   "swift",
   "unity",
   // "xml"

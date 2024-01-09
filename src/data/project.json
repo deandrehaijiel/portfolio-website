@@ -1,6 +1,13 @@
 {
     "project": [
         {
+            "cover": "./project/eternalqrhub/EternalQRHub.png",
+            "title": "EternalQRHub",
+            "description": "EternalQRHub is a powerful QR code generator that offers both Basic and Advanced modes, catering to your diverse needs.",
+            "url": "https://deandrehaijiel.github.io/EternalQRHub/"
+        }
+    ,
+        {
             "cover": "./project/xtoy/XtoY.png",
             "title": "X to Y",
             "description": "X to Y is a messaging app designed exclusively for you (X) and your significant other (Y), also available in Android at https://github.com/deandrehaijiel/xtoy_android.",
