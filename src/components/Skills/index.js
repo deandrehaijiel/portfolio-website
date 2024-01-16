@@ -92,6 +92,7 @@ const Skills = () => {
             <a
               href="https://www.linkedin.com/in/deandrehaijielim/"
               target="_blank"
+              rel="noreferrer"
             >
               LinkedIn
             </a>{" "}
@@ -99,6 +100,7 @@ const Skills = () => {
             <a
               href="https://github.com/deandrehaijiel/portfolio-website/blob/master/src/assets/resume/DeAndre%20Hai%20Jie%20Lim%20Resume.pdf"
               target="_blank"
+              rel="noreferrer"
             >
               résumé
             </a>{" "} 
