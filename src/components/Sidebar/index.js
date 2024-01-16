@@ -31,22 +31,22 @@ const Sidebar = () => (
         </nav>
         <ul>
             <li>
-                <a target="_blank" rel="noreference" href="https://www.linkedin.com/in/deandrehaijielim/">
+                <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/deandrehaijielim/">
                     <FontAwesomeIcon icon={faLinkedin} color="#4d4d4e" />
                 </a>
             </li>
             <li>
-                <a target="_blank" rel="noreference" href="https://github.com/deandrehaijiel">
+                <a target="_blank" rel="noreferrer" href="https://github.com/deandrehaijiel">
                     <FontAwesomeIcon icon={faGithub} color="#4d4d4e" />
                 </a>
             </li>
             <li>
-                <a target="_blank" rel="noreference" href="https://twitter.com/deandrehaijiel">
+                <a target="_blank" rel="noreferrer" href="https://twitter.com/deandrehaijiel">
                     <FontAwesomeIcon icon={faTwitter} color="#4d4d4e" />
                 </a>
             </li>
             <li>
-                <a target="_blank" rel="noreference" href="https://www.instagram.com/__leijiaherdnaed__/">
+                <a target="_blank" rel="noreferrer" href="https://www.instagram.com/__leijiaherdnaed__/">
                     <FontAwesomeIcon icon={faInstagram} color="#4d4d4e" />
                 </a>
             </li>
