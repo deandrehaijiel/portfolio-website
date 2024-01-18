@@ -11,6 +11,7 @@ const slugs = [
   "csharp",
   "cplusplus",
   "dart",
+  "express",
   "flutter",
   "html5",
   "javascript",
@@ -19,7 +20,9 @@ const slugs = [
   // "matlab",
   "microsoftoffice",
   // "microsoftvisualbasic",
+  "mongodb",
   "mysql",
+  "nodedotjs",
   "npm",
   "adobephotoshop",
   "python",
@@ -63,6 +66,7 @@ const Skills = () => {
             <span class="tech-tag"> C#</span>,
             <span class="tech-tag"> C++</span>,
             <span class="tech-tag"> Dart</span>,
+            <span class="tech-tag"> Express</span>,
             <span class="tech-tag"> Flutter</span>,
             <span class="tech-tag"> HTML</span>,
             <span class="tech-tag"> JavaScript</span>,
@@ -71,7 +75,9 @@ const Skills = () => {
             <span class="tech-tag"> MATLAB</span>,
             <span class="tech-tag"> Microsoft Office</span>,
             <span class="tech-tag"> Microsoft Visual Basic</span>,
+            <span class="tech-tag"> MongoDB</span>,
             <span class="tech-tag"> MySQL</span>,
+            <span class="tech-tag"> Node.js</span>,
             <span class="tech-tag"> npm</span>,
             <span class="tech-tag"> Photoshop</span>,
             <span class="tech-tag"> Python</span>,
@@ -79,8 +85,9 @@ const Skills = () => {
             <span class="tech-tag"> SCSS</span>,
             <span class="tech-tag"> Solidity</span>,
             <span class="tech-tag"> SwiftUI</span>,
-            <span class="tech-tag"> Unity 2D</span>, and
-            <span class="tech-tag"> XML</span>.
+            <span class="tech-tag"> Unity 2D</span>,
+            <span class="tech-tag"> XML</span>, and
+            <span class="tech-tag"> Yarn</span>.
           </p>
           <p>
             I have exposed myself to various software technologies and am always
