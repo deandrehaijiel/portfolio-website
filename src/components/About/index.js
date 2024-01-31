@@ -33,9 +33,6 @@ const About = () => {
           <p>
           Looking for opportunities to start a career in the technology field and would love to have a chat if I am who you are looking for!
           </p>
-          <p>
-          <a href="https://deandrehaijiel.surge.sh/" target="_blank" rel="noreferrer">Curriculum Vitae Website</a>
-          </p>
           </div>
         </div>
 
