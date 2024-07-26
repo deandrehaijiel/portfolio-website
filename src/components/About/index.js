@@ -24,38 +24,33 @@ const About = () => {
             />
           </h1>
           <div className="fade">
-          <p>
-          Currently in my final year of study at Nanyang Technological University (NTU), School of EEE (Electrical and Electronic Engineering), pursuing a Bachelor’s Degree in Electrical and Electronic Engineering. 
-          </p>
-          <p align="LEFT">
-          Trained to analyse and solve the most complex of problems. Outgoing and detail-oriented, proficient at building and maintaining professional relationships. Self-motivated student, capable of working independently or as part of a team. Seek to always learn and challenge myself.
-          </p>
-          <p>
-          Looking for opportunities to start a career in the technology field and would love to have a chat if I am who you are looking for!
-          </p>
+            <p>
+              A graduate of Nanyang Technological University (NTU) with a degree
+              in Electrical & Electronic Engineering.
+            </p>
+            <p align="LEFT">
+              Trained to analyse and solve the most complex of problems.
+              Outgoing and detail-oriented, proficient at building and
+              maintaining professional relationships. Self-motivated student,
+              capable of working independently or as part of a team. Seek to
+              always learn and challenge myself.
+            </p>
+            <p>
+              Looking for opportunities to start a career in the technology
+              field and would love to have a chat if I am who you are looking
+              for!
+            </p>
           </div>
         </div>
 
         <div className="stage-cube-cont">
           <div className="cubespinner">
-            <div className="face1">
-              
-            </div>
-            <div className="face2">
-              
-            </div>
-            <div className="face3">
-              
-            </div>
-            <div className="face4">
-              
-            </div>
-            <div className="face5">
-              
-            </div>
-            <div className="face6">
-              
-            </div>
+            <div className="face1"></div>
+            <div className="face2"></div>
+            <div className="face3"></div>
+            <div className="face4"></div>
+            <div className="face5"></div>
+            <div className="face6"></div>
           </div>
         </div>
       </div>
