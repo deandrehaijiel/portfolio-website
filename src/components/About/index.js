@@ -24,22 +24,19 @@ const About = () => {
             />
           </h1>
           <div className="fade">
+            <p>Founder of One Date</p>
             <p>
-              A graduate of Nanyang Technological University (NTU) with a degree
-              in Electrical & Electronic Engineering.
-            </p>
-            <p align="LEFT">
-              Trained to analyse and solve the most complex of problems.
-              Outgoing and detail-oriented, proficient at building and
-              maintaining professional relationships. Self-motivated student,
-              capable of working independently or as part of a team. Seek to
-              always learn and challenge myself.
+              I'm passionate about revolutionizing the way people connect. At
+              One Date, I lead the development of a unique dating app that goes
+              beyond matching. Users match based on shared interests and connect
+              them with exciting local experiences.
             </p>
             <p>
-              Looking for opportunities to start a career in the technology
-              field and would love to have a chat if I am who you are looking
-              for!
+              This innovative approach creates a win-win for both daters and
+              businesses. Users discover unforgettable adventures, while local
+              establishments gain valuable exposure and new customers.
             </p>
+            <p>Excited to connect and explore partnerships!</p>
           </div>
         </div>
 

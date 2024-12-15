@@ -49,9 +49,10 @@ const Contact = () => {
             />
           </h1>
           <div className="fade">
-          <p>
-          I am interested in full-time opportunities - especially in the technology field. However, if you have other requests or questions, don't hesitate to contact me using the form below.
-          </p>
+            <p>
+              If you have other requests or questions, don't hesitate to contact
+              me using the form below.
+            </p>
           </div>
           <div className="contact-form">
             <form ref={form} onSubmit={sendEmail}>
@@ -102,7 +103,9 @@ const Contact = () => {
           <MapContainer center={[1.3868, 103.8914]} zoom={13}>
             <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
             <Marker position={[1.3868, 103.8914]}>
-              <Popup>DeAndre lives here, come over for a cup of coffee :)</Popup>
+              <Popup>
+                DeAndre lives here, come over for a cup of coffee :)
+              </Popup>
             </Marker>
           </MapContainer>
         </div>
